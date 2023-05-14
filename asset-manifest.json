@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Prakhar-gith/DATA-SCIENCE/static/css/main.fa5f19b1.css",
+    "main.js": "/Prakhar-gith/DATA-SCIENCE/static/js/main.19fce7c3.js",
+    "static/js/787.0747b848.chunk.js": "/Prakhar-gith/DATA-SCIENCE/static/js/787.0747b848.chunk.js",
+    "index.html": "/Prakhar-gith/DATA-SCIENCE/index.html",
+    "main.fa5f19b1.css.map": "/Prakhar-gith/DATA-SCIENCE/static/css/main.fa5f19b1.css.map",
+    "main.19fce7c3.js.map": "/Prakhar-gith/DATA-SCIENCE/static/js/main.19fce7c3.js.map",
+    "787.0747b848.chunk.js.map": "/Prakhar-gith/DATA-SCIENCE/static/js/787.0747b848.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa5f19b1.css",
+    "static/js/main.19fce7c3.js"
+  ]
+}
