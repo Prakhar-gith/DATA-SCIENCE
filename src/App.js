@@ -1,4 +1,4 @@
-import React from 'react';
+// import React from 'react';
 import './App.css';
 // import Gif from './components/Gif';
 import Gif from './components/Gif';
